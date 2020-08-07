@@ -31,7 +31,7 @@ https://www.shutterstock.com/es/search/glass+objects
 
 ### TOTAL ACTUAL:
 
-    - 601 glass
+    - 728 glass
     - 694 paper
     - 600 cardboard
     - 759 plastic
