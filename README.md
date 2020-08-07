@@ -22,10 +22,13 @@ https://people.csail.mit.edu/celiu/CVPR2010/FMD/FMD.zip
 ### Se filtraron 197 cardboard de:
 https://medium.com/@ringlayer/cardboard-box-detection-using-retinanet-keras-5d4f331d9d15
 
+
+### Se filtraron 182 imagenes de:
+https://www.shutterstock.com/es/search/plastic+objects
 ### TOTAL ACTUAL:
 
     - 601 glass
     - 694 paper
     - 600 cardboard
-    - 582 plastic
+    - 759 plastic
     - 510 metal
