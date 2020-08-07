@@ -23,7 +23,7 @@ https://people.csail.mit.edu/celiu/CVPR2010/FMD/FMD.zip
 https://medium.com/@ringlayer/cardboard-box-detection-using-retinanet-keras-5d4f331d9d15
 
 
-### Se filtraron 182 imagenes de:
+### Se filtraron 182 imagenes de plastico de:
 https://www.shutterstock.com/es/search/plastic+objects
 ### TOTAL ACTUAL:
 
