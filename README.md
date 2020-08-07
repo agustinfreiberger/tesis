@@ -29,10 +29,13 @@ https://www.shutterstock.com/es/search/plastic+objects
 ### Se filtraron 127 imagenes de vidrio de:
 https://www.shutterstock.com/es/search/glass+objects
 
+### Se filtraron 216 imagenes de metal de:
+https://www.shutterstock.com/es/search/metal+objects
+
 ### TOTAL ACTUAL:
 
     - 728 glass
     - 694 paper
     - 600 cardboard
     - 759 plastic
-    - 510 metal
+    - 726 metal
