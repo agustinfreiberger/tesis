@@ -25,6 +25,10 @@ https://medium.com/@ringlayer/cardboard-box-detection-using-retinanet-keras-5d4f
 
 ### Se filtraron 182 imagenes de plastico de:
 https://www.shutterstock.com/es/search/plastic+objects
+
+### Se filtraron 127 imagenes de vidrio de:
+https://www.shutterstock.com/es/search/glass+objects
+
 ### TOTAL ACTUAL:
 
     - 601 glass
