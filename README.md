@@ -26,7 +26,7 @@ https://medium.com/@ringlayer/cardboard-box-detection-using-retinanet-keras-5d4f
 ### Se filtraron 182 imagenes de plastico de:
 https://www.shutterstock.com/es/search/plastic+objects
 
-### Se filtraron 127 imagenes de vidrio de:
+### Se filtraron 199 imagenes de vidrio de:
 https://www.shutterstock.com/es/search/glass+objects
 
 ### Se filtraron 216 imagenes de metal de:
@@ -40,7 +40,7 @@ https://www.shutterstock.com/es/search/paper
 
 ### TOTAL ACTUAL:
 
-    - 728 glass
+    - 800 glass
     - 779 paper
     - 774 cardboard
     - 759 plastic
