@@ -29,7 +29,7 @@ https://www.shutterstock.com/es/search/plastic+objects
 ### Se filtraron 199 imagenes de vidrio de:
 https://www.shutterstock.com/es/search/glass+objects
 
-### Se filtraron 216 imagenes de metal de:
+### Se filtraron 280 imagenes de metal de:
 https://www.shutterstock.com/es/search/metal+objects
 
 ### Se filtraron 174 imagenes de carton de:
@@ -44,4 +44,4 @@ https://www.shutterstock.com/es/search/paper
     - 779 paper
     - 774 cardboard
     - 759 plastic
-    - 726 metal
+    - 800 metal
