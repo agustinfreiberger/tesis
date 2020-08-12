@@ -23,7 +23,7 @@ https://people.csail.mit.edu/celiu/CVPR2010/FMD/FMD.zip
 https://medium.com/@ringlayer/cardboard-box-detection-using-retinanet-keras-5d4f331d9d15
 
 
-### Se filtraron 182 imagenes de plastico de:
+### Se filtraron 223 imagenes de plastico de:
 https://www.shutterstock.com/es/search/plastic+objects
 
 ### Se filtraron 199 imagenes de vidrio de:
@@ -32,16 +32,16 @@ https://www.shutterstock.com/es/search/glass+objects
 ### Se filtraron 280 imagenes de metal de:
 https://www.shutterstock.com/es/search/metal+objects
 
-### Se filtraron 174 imagenes de carton de:
+### Se filtraron 200 imagenes de carton de:
 https://www.shutterstock.com/es/search/cardboard+objects
 
-### Se filtraron 85 imagenes de papel de:
+### Se filtraron 106 imagenes de papel de:
 https://www.shutterstock.com/es/search/paper
 
 ### TOTAL ACTUAL:
 
     - 800 glass
-    - 779 paper
-    - 774 cardboard
-    - 759 plastic
+    - 800 paper
+    - 800 cardboard
+    - 800 plastic
     - 800 metal
